@@ -32,8 +32,10 @@ data di dalam media penyimpanan komputer sehingga data tersebut dapat
 digunakan secara efisien. *Aho, Hopcroft, Ullman, 1987,Data Structures and Algorithms,Prentice Hall*
 #### konsep queue / stack
 Dalam konsep penyimpanan linear, terdapat dua model utama yaitu Queue (antrean) dan Stack (tumpukan). Sjukani (2014) menjelaskan bahwa Queue adalah sekumpulan data yang penambahan elemennya dilakukan di satu ujung (rear) dan penghapusannya di ujung lain (front). Sementara itu, Stack diibaratkan sebagai tumpukan piring di mana penambahan dan penghapusan data hanya terjadi pada satu ujung yang sama (top). Perbedaan mendasar ini menentukan skenario penggunaan keduanya dalam aplikasi perangkat lunak.
+
 #### konsep FIFO / LIFO
 Metode akses data pada kedua struktur tersebut dikenal dengan prinsip FIFO (First-In-First-Out) dan LIFO (Last-In-First-Out). Jurnal penelitian dari Putra dkk. (2020) menyebutkan bahwa Queue mengikuti prinsip FIFO, di mana data yang pertama kali masuk akan menjadi yang pertama kali diproses—sangat ideal untuk sistem antrean tiket. Sebaliknya, Stack menggunakan prinsip LIFO, di mana data yang terakhir masuk justru akan menjadi yang pertama kali keluar, seperti fungsi "Undo" pada aplikasi pengolah kata.
+
 #### implementasi menggunakan array atau linked list
 Implementasi Queue maupun Stack dapat dilakukan menggunakan dua media utama, yaitu Array atau Linked List. Menurut Karumanchi (2016) dalam Data Structures and Algorithms Made Easy, implementasi menggunakan Array lebih sederhana karena data disimpan pada blok memori yang berurutan (statis). Namun, jika kapasitas data bersifat dinamis atau tidak menentu, penggunaan Linked List lebih disarankan karena setiap elemen (node) menyimpan alamat memori elemen berikutnya, sehingga lebih fleksibel dalam alokasi memori meskipun logikanya lebih kompleks dibanding Array.
 
