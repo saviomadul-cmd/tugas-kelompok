@@ -1,3 +1,8 @@
+# Nama Kelompok
+1.I Gede Agus Gunawan
+2.Teodoru Arivin Madul
+3.Yohanes Algiantara
+
 # 🎟️ Sistem Simulasi Antrian Tiket Konser (War Ticket)
 > Implementasi Struktur Data **Queue** berbasis **Array** menggunakan bahasa Python.
 
