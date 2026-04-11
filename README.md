@@ -1,7 +1,8 @@
 # Nama Kelompok
-#### 1.I Gede Agus Gunawan
-#### 2.Teodoru Arivin Madul
-#### 3.Yohanes Algiantara
+#### 1.I Gede Agus Gunawan (2501010338)
+#### 2.Teodoru Arivin Madul(2501010341)
+#### 3.Yohanes Algiantara (2501010340)
+
 
 # 🎟️ Sistem Simulasi Antrian Tiket Konser (War Ticket)
 > Implementasi Struktur Data **Queue** berbasis **Array** menggunakan bahasa Python.
